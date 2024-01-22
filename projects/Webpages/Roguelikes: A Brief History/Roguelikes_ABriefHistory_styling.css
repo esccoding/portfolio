@@ -1,0 +1,30 @@
+* {
+	background-color: rgb(15,59,58);
+	font-family: trebuchet ms;
+}
+
+h1 {
+	color: white;
+	font-size: 45px;
+}
+
+h3 {
+	color: white;
+}
+
+h4 {
+	color: white;
+}
+
+p {
+	color: b1c9c3;
+	font-size: 16px;
+}
+
+a {
+	color: #40a4b9;
+}
+
+li {
+	color: white;
+}
