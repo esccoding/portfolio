@@ -1,0 +1,9 @@
+Stock# MO201601 :
+ {'make': 'Mitsubishi', 'model': 'Outlander', 'color': 'White', 'year': 2016, 'mileage': 64000}
+
+Stock# HC201701 :
+ {'make': 'Honda', 'model': 'Civic', 'color': 'Black', 'year': 2017, 'mileage': 23000}
+
+Stock# SO202301 :
+ {'make': 'Subaru', 'model': 'Outback', 'color': 'Navy', 'year': 2023, 'mileage': 5320}
+
